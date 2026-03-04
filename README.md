@@ -1,4 +1,6 @@
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
 # Hi 👋 I'm Mohamed AbdElhamed
+![](https://komarev.com/ghpvc/?username=mmostafa3210&color=blue)
 
 💻 Junior Full Stack Web Developer  
 🎓 IT Student  
