@@ -48,3 +48,14 @@ https://github.com/mmostafa3210/edu-center-website
 ## 📫 Contact
 
 Email: mohamedafifi172@gmail.com
+---
+
+## 📊 GitHub Stats
+
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmostafa3210&show_icons=true&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmostafa3210&layout=compact&theme=tokyonight)
